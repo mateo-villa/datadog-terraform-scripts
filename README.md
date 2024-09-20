@@ -50,4 +50,4 @@ chmod +x ./scripts/setup_env_vars.sh
 
 ### References
 
-(Terraform resources)[https://registry.terraform.io/providers/DataDog/datadog/latest/docs/resources/synthetics_test]
+[Terraform resources](https://registry.terraform.io/providers/DataDog/datadog/latest/docs/resources/synthetics_test)
