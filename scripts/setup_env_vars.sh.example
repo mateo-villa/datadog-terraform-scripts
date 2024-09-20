@@ -1,4 +1,4 @@
-export export TF_VAR_datadog_api_key="<Your-API-Key>"
+export TF_VAR_datadog_api_key="<Your-API-Key>"
 export TF_VAR_datadog_app_key="<Your-App-Key>"
 export TF_VAR_datadog_site="us5.datadoghq.com"
 export TF_VAR_datadog_api_url="https://api.us5.datadoghq.com"
